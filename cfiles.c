@@ -4,6 +4,7 @@
 struct node
 {
 int info;
+//   pointer to node
 struct node *link;
 };
 int  main()
